@@ -1,0 +1,2 @@
+# Promises
+A set of demos showing promise creation and use with .then() and async / await demonstrating with named functions to increase readability whilst the subject is understood then switching to arrow functions.
